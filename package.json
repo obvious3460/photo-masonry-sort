@@ -1,0 +1,10 @@
+{
+  "name": "photo-masonry-sort",
+  "version": "0.1.0",
+  "description": "Chronological, aspect-ratio-aware masonry layout for photo galleries",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
